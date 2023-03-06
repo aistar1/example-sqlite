@@ -20,3 +20,4 @@ python main.py
 
 [article](https://blog.csdn.net/bigcarp/article/details/114172560)
 
+[pandas-and-sqlite](https://www.learncodewithmike.com/2021/05/pandas-and-sqlite.html)
